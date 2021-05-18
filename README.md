@@ -6,5 +6,5 @@
 - 📫 How to reach me: ig/octavia.py
 
 ![Oct4via's github stats](https://github-readme-stats.vercel.app/api?username=Oct4via&show_icons=true&line_height=25)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oct4via&layout=compact&hide=html" alt="oct4via" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Oct4via&show_icons=true" alt="morristech" /></p>
