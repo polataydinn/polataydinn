@@ -1,6 +1,6 @@
 ### Hi there 👋 (sa/as)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mishra3452&label=Views&color=blue&style=plastic" alt="oct4via" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=oct4via&label=Views&color=blue&style=plastic" alt="oct4via" /> </p>
 
 - 🔭 I’m currently working on Andorid
 - 🌱 I’m currently learning kotlin <3
