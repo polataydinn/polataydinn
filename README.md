@@ -1,12 +1,12 @@
 ### Hi there 👋 (sa/as)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=oct4via&label=Views&color=blue&style=plastic" alt="oct4via" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=polataydinn&label=Views&color=blue&style=plastic" alt="polataydinn" /> </p>
 
 - 🔭 I’m currently working on Andorid
 - 🌱 I’m currently learning kotlin <3
 - 💬 Ask me about cracking
 - 📫 How to reach me: ig/octavia.py
 
-![Oct4via's github stats](https://github-readme-stats.vercel.app/api?username=Oct4via&show_icons=true&line_height=25)
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oct4via&layout=compact&hide=html" alt="oct4via" /></p>
+![polataydinn's github stats](https://github-readme-stats.vercel.app/api?username=polataydinn&show_icons=true&line_height=25)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=polataydinn&layout=compact&hide=html" alt="polataydinn" /></p>
 
