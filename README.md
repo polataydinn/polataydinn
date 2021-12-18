@@ -9,7 +9,7 @@
 
 ![polataydinn's github stats](https://github-readme-stats.vercel.app/api?username=polataydinn&show_icons=true&line_height=25)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=polataydinn&layout=compact&hide=html" alt="polataydinn" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gruffduck&" alt="gruffduck" /></p>
+<br></br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=polataydinn&" alt="polataydinn" /></p>
 
 
