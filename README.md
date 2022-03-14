@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on Andorid
 - 🌱 I’m currently learning kotlin <3
 - 💬 Ask me about cracking
-- 📫 How to reach me: [instagram](https://www.instagram.com/polataydinn/)
+- 📫 📫 How to reach me pltaydinn@gmail.com
 
 ![polataydinn's github stats](https://github-readme-stats.vercel.app/api?username=polataydinn&show_icons=true&line_height=25)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=polataydinn&layout=compact&hide=html" alt="polataydinn" /></p>  
