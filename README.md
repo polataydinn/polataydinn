@@ -1,4 +1,4 @@
-### Hi there 👋 (sa/as)
+### Hi there 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=polataydinn&label=Views&color=blue&style=plastic" alt="polataydinn" /> </p>
 
